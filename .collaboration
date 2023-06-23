@@ -148,7 +148,16 @@
   },
   {
     "ModuleName": "DataContectionSet",
-    "ModuleType": 25
+    "State": 1,
+    "LockedBy": {
+      "UserName": "YasukoTakura",
+      "Email": "yasuko.takura@grapecity.com"
+    },
+    "LockDateTime": "2023-06-23T14:26:26.4931077+09:00",
+    "ModuleType": 25,
+    "ToRemoveFiles": [
+      "DataConnectionSet.json"
+    ]
   },
   {
     "ModuleName": "Upload",
